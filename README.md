@@ -1,4 +1,4 @@
-# Hey there, I'm Jvke! 👋 
+# Hey there, I'm Jvke!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=180&section=header&text=ENGINEER.%20DEVELOPER.%20BUILDER.&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=62&descAlign=50" alt="Jvke Banner" width="100%" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 > *"I build thoughtful digital products with modern web technologies, combining engineering, interface design, and practical problem solving."*
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 #### **Frontend**
 <p align="left">
@@ -68,50 +68,12 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Connect With Me
 
-Here are some highlights from my portfolio:
-
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **[Minimal Portfolio](https://jvke-dev.vercel.app/)** | `Next.js` `Tailwind CSS` `Framer Motion` `Vercel` | Personal developer space featuring clean typography, dark/light themes, and micro-interactions. |
-| **Movie Flow** | `React` `Redux` `Tailwind` `Framer Motion` `Vite` | Interactive movie discovery app with trailer preview, category filters, and smooth UI motion. |
-| **Form Craft** | `React` `TypeScript` `Tailwind CSS` `Vite` | Drag-and-drop dynamic form builder with custom field validation and live JSON schema export. |
-| **Task Sync** | `React` `Node.js` `Express` `MongoDB` `Socket.io` | Real-time task management platform featuring dynamic boards, live updates, and collaborative workspaces. |
-| **Code Snippet Vault** | `Laravel` `Vue.js` `Tailwind CSS` `MySQL` | Developer utility for storing, tagging, syntax-highlighting, and fast-searching reusable code snippets. |
-| **API Health Monitor** | `Node.js` `Express` `React` `Chart.js` `Firebase` | Lightweight telemetry dashboard for monitoring API uptime, response times, and alert notifications. |
-
----
-
-### ⚙️ How I Build
-
-```
-  [01. PLAN]      ➔  Understand core problem requirements & user needs
-       │
-  [02. DESIGN]    ➔  Craft intuitive interfaces & responsive layouts
-       │
-  [03. BUILD]     ➔  Develop robust frontends, backends, APIs & data layers
-       │
-  [04. REFINE]    ➔  Optimize performance, fix edge cases & polish micro-interactions
-```
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpdev-work&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jvke's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdev-work&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-- 🌐 **Portfolio Website:** [jvke-dev.vercel.app](https://jvke-dev.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/jvke](https://linkedin.com/in/jvke)
-- 🐙 **GitHub:** [@mpdev-work](https://github.com/mpdev-work)
-- ✉️ **Email:** [pisalmony.work@gmail.com](mailto:pisalmony.work@gmail.com)
+-  **Portfolio Website:** [jvke-dev.vercel.app](https://jvke-dev.vercel.app/)
+-  **LinkedIn:** [linkedin.com/in/jvke](https://linkedin.com/in/jvke)
+-  **GitHub:** [@mpdev-work](https://github.com/mpdev-work)
+-  **Email:** [pisalmony.work@gmail.com](mailto:pisalmony.work@gmail.com)
 
 <p align="center">
   <sub>Designed & built with curiosity and care. Thanks for stopping by! 🚀</sub>
