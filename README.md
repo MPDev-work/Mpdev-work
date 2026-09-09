@@ -11,7 +11,7 @@
   <a href="mailto:pisalmony.work@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email_Me-pisalmony.work@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/jvke">
+  <a href="https://linkedin.com/in/pisal_mony">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=for-the-badge" alt="Available for work" />
@@ -23,11 +23,11 @@
 
 > *"I build thoughtful digital products with modern web technologies, combining engineering, interface design, and practical problem solving."*
 
-- 🇰🇭 Based in **Cambodia**
-- 🎓 **Engineering Student** with a passion for software craftsmanship
-- 💻 Specializing in **Frontend & Full Stack Web Development**
-- 🎨 Focused on creating modern, fluid user experiences with clean code architecture
-- 🚀 Check out my interactive portfolio at **[jvke-dev.vercel.app](https://jvke-dev.vercel.app/)**
+-  Based in **Cambodia**
+- **Engineering Student** with a passion for software craftsmanship
+-  Specializing in **Frontend & Full Stack Web Development**
+-  Focused on creating modern, fluid user experiences with clean code architecture
+-  Check out my interactive portfolio at **[jvke-dev.vercel.app](https://jvke-dev.vercel.app/)**
 
 ---
 
