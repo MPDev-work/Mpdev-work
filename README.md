@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=for-the-badge" alt="Available for work" />
 </p>
 
+---
 
 ###  About Me
 
@@ -28,6 +29,7 @@
 -  Focused on creating modern, fluid user experiences with clean code architecture
 -  Check out my interactive portfolio at **[jvke-dev.vercel.app](https://jvke-dev.vercel.app/)**
 
+---
 
 ###  Tech Stack & Tools
 
@@ -64,12 +66,16 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
 </p>
 
+---
+
 ###  Connect With Me
 
 -  **Portfolio Website:** [jvke-dev.vercel.app](https://jvke-dev.vercel.app/)
 -  **LinkedIn:** [linkedin.com/in/jvke](https://linkedin.com/in/jvke)
 -  **GitHub:** [@mpdev-work](https://github.com/mpdev-work)
 -  **Email:** [pisalmony.work@gmail.com](mailto:pisalmony.work@gmail.com)
+
+---
 
 <p align="center">
   <sub>Designed & built with curiosity and care. Thanks for stopping by! 🚀</sub>
