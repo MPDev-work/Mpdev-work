@@ -1,7 +1,7 @@
 # Hey there, I'm Jvke!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=180&section=header&text=FULLSTACK%20DEVELOPER&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=62&descAlign=50" alt="Jvke Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31,41&height=180&section=header&text=FULLSTACK%20DEVELOPER&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Royal%20University%20of%20Phnom%20Penh&descAlignY=62&descAlign=50" alt="Jvke Banner" width="100%" />
 </p>
 
 <p align="center">
