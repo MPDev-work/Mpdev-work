@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-2ea44f?style=for-the-badge" alt="Available for work" />
 </p>
 
-___
 
 ###  About Me
 
@@ -29,7 +28,6 @@ ___
 -  Focused on creating modern, fluid user experiences with clean code architecture
 -  Check out my interactive portfolio at **[jvke-dev.vercel.app](https://jvke-dev.vercel.app/)**
 
-___
 
 ###  Tech Stack & Tools
 
@@ -65,8 +63,6 @@ ___
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
 </p>
-
-___
 
 ###  Connect With Me
 
